@@ -11,5 +11,9 @@
         }
       ]
     }
-  ]
+  ],
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": "astro",
+  "version": 3
 }
